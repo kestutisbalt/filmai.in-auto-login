@@ -8,6 +8,4 @@ Usage
 =====
 
 Python script can be invoked in terminal
-
-::
 	$ python ./auto_login.py user_name user_password
